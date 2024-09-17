@@ -1,1 +1,34 @@
-[{"version": "204", "title": "204", "aliases": []}, {"version": "204-e", "title": "204-e", "aliases": ["latest"]}, {"version": "204-d", "title": "204-d", "aliases": []}, {"version": "203", "title": "203", "aliases": []}, {"version": "202", "title": "202", "aliases": []}]
+[
+  {
+    "version": "CF290",
+    "title": "CF290",
+    "aliases": [
+      "latest"
+    ]
+  },
+  {
+    "version": "204",
+    "title": "204",
+    "aliases": []
+  },
+  {
+    "version": "204-e",
+    "title": "204-e",
+    "aliases": []
+  },
+  {
+    "version": "204-d",
+    "title": "204-d",
+    "aliases": []
+  },
+  {
+    "version": "203",
+    "title": "203",
+    "aliases": []
+  },
+  {
+    "version": "202",
+    "title": "202",
+    "aliases": []
+  }
+]
