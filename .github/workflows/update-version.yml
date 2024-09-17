@@ -44,6 +44,6 @@ jobs:
           git config --global user.email notarealemail@hcl.dx
       - name: Run Mike deploy
         env: 
-          RELEASE_TAG_VERSION: ${{ github.event.release.tag_name }}
+          RELEASE_TAG_VERSION: ${{ github.event.release.name }}
         run: |
           mike deploy ${RELEASE_TAG_VERSION^^} --push
